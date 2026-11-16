@@ -1,0 +1,11 @@
+{
+  "schema": "hub.json (draft)",
+  "name": "Factory pipeline QA 2",
+  "what_it_does": "A test site made end to end by the AgentiCCells site factory, with a first version written by Claude Code.",
+  "owner": "AgentiCCells",
+  "team": "factory@AgentiCCells.dinis, instructed by Dinis Cruz",
+  "licence": { "code": "Apache-2.0", "text": "CC BY 4.0" },
+  "repository": "https://github.com/AgentiCCells/AgentiCCells__Site__Factory__Pipeline__QA-2",
+  "live_address": "https://qa-2.agenticcells.site",
+  "version_from": "/version.json"
+}
