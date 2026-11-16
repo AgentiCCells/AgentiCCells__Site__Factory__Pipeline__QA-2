@@ -1,7 +1,7 @@
 {
   "schema": "hub.json (draft)",
   "name": "Factory pipeline QA 2",
-  "what_it_does": "A test site made end to end by the AgentiCCells site factory, with a first version written by Claude Code.",
+  "what_it_does": "A demonstration site for a fictional neighbourhood bakery, The Test Loaf, made by the AgentiCCells site factory to show what it can build from a brief.",
   "owner": "AgentiCCells",
   "team": "factory@AgentiCCells.dinis, instructed by Dinis Cruz",
   "licence": { "code": "Apache-2.0", "text": "CC BY 4.0" },
